@@ -1,5 +1,5 @@
 # INFO1113 Assignment 1
-First assignment coding in java for INFO1113\
+First assignment coding in java for INFO1113, a text based mock stock exchange
 
 Use: javac Trader.java Trade.java Reader.java Order.java Market.java Exchange.java\
 java Exchange\
